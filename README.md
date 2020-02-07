@@ -77,7 +77,7 @@ an array of all the students in grade 9.
 This is a class method that does not need an argument. This method should return
 an array of all the students below 12th grade.
 
-### The `.first_X_students_in_grade_10` Method
+### The `.first_X_students_in_grade_10` Method HARD Feed that into (X) the WORD for sql = return the first thing put a question mark behind that magic word. "? = X"
 
 This is a class method that takes in an argument of the number of students from
 grade 10 to select. This method should return an array of exactly `X` number of
